@@ -1,5 +1,6 @@
  # Mini_Project_GUI_Image_Encryption-Decryption-
 This Project is a basic tkinter application for encrypting an image file using a simple XOR encryption algorithm. The application allows the user to select a JPEG image file, enter a numerical key, and then encrypts the image using the XOR operation with the provided key.
+
 ![image1](https://github.com/bhavish95/Mini_Project_GUI_Image_Encryption-Decryption-/assets/111994995/c003e30a-c7ce-45f9-84af-2135e72bd108)
 
 Click the "Encrypt" button.
@@ -33,7 +34,7 @@ after encryption our image look like this
 now for decryption same step we will do
 ![image](https://github.com/bhavish95/Mini_Project_GUI_Image_Encryption-Decryption-/assets/111994995/f9135a4c-6e34-48b5-9cbc-1af5929ee0bf)
 
-#Conclusion of Project
+# Conclusion of Project
 The provided project is a simple demonstration of how to create a basic image encryption application using the tkinter library in Python. The application allows the user to select a JPEG image file, enter a numerical key, and encrypt the image using the XOR operation with the provided key. While the program works for demonstration purposes, it is important to note the following conclusions:
 
 XOR Encryption: The project demonstrates a basic XOR encryption technique, which is not considered secure for practical use. XOR encryption is easily reversible and can be vulnerable to simple cryptographic attacks. For real-world applications, it is crucial to use strong and well-established encryption algorithms, such as AES (Advanced Encryption Standard), to ensure data security.

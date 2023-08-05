@@ -24,14 +24,23 @@ The program will read the image, encrypt it using XOR with the provided key, and
 ![image](https://github.com/bhavish95/Mini_Project_GUI_Image_Encryption-Decryption-/assets/111994995/a4fa27b7-8d01-4026-9237-3900127b6a9e)
 # Step7- Testing of the code 
 In this when we run this code we get screen like this 
+
 ![image](https://github.com/bhavish95/Mini_Project_GUI_Image_Encryption-Decryption-/assets/111994995/a1f5f408-8585-4ee6-8839-363c8c951276)
+
 Know in Text field we enter our scret key to encrypt
+
 ![image](https://github.com/bhavish95/Mini_Project_GUI_Image_Encryption-Decryption-/assets/111994995/fa183cb5-1bac-4cad-a59b-562d0907cafd)
+
 know after entering the scret key we select image which you want encrypt
+
 ![image](https://github.com/bhavish95/Mini_Project_GUI_Image_Encryption-Decryption-/assets/111994995/597e87c5-0732-4b49-8156-6dab0e7cf224)
+
 after encryption our image look like this
+
 ![image](https://github.com/bhavish95/Mini_Project_GUI_Image_Encryption-Decryption-/assets/111994995/1a369a4a-dcd9-40b1-bffd-901a5aaa39b3)
+
 now for decryption same step we will do
+
 ![image](https://github.com/bhavish95/Mini_Project_GUI_Image_Encryption-Decryption-/assets/111994995/f9135a4c-6e34-48b5-9cbc-1af5929ee0bf)
 
 # Conclusion of Project
